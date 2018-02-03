@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kveselkov.me/categories/</loc>
+    <loc>http://kveselkov.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kveselkov.me/</loc>
+    <loc>http://kveselkov.me/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kveselkov.me/tags/</loc>
+    <loc>http://kveselkov.me/tags/</loc>
     <priority>0</priority>
   </url>
   
